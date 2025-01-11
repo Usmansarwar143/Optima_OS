@@ -85,6 +85,6 @@ Collaborators:
 ## 🌟 **Contact**  
 For queries or feedback, feel free to reach out:  
 - **Usman Sarwar**: [LinkedIn](https://www.linkedin.com/in/muhammad-usman-018535253/)  
-- **Asma Channa**: [LinkedIn](https://www.linkedin.com/iasmachanna)  
+- **Asma Channa**: [LinkedIn](https://www.linkedin.com/in/iasmachanna)  
 
 ### Thanks For Reaching Out
