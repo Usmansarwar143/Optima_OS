@@ -37,7 +37,7 @@ Follow these steps to download, compile, and run the project:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/OPTIMA_OS.git
+git clone https://github.com/Usmansarwar143/Optima_OS.git
 
 # Step 2: Navigate to the project directory
 cd OPTIMA_OS
@@ -69,11 +69,6 @@ The CLI initializes core systems and presents a user-friendly menu:
 
 ---
 
-## 📽️ **Demonstration**  
-Check out the project in action here: [Insert Video Link]  
-
----
-
 ## 🤝 **Acknowledgments**  
 This project was developed as part of our **Semester Project** for the **Embedded Systems Course** under the guidance of:  
 - **Dr. Mumtaz Kaloi** (Course Instructor)  
@@ -89,9 +84,7 @@ Collaborators:
 
 ## 🌟 **Contact**  
 For queries or feedback, feel free to reach out:  
-- **Usman Sarwar**: [GitHub](https://github.com/your-username)  
-- **Asma Channa**: [LinkedIn](https://www.linkedin.com/in/asma-channa)  
+- **Usman Sarwar**: [LinkedIn](https://www.linkedin.com/in/muhammad-usman-018535253/)  
+- **Asma Channa**: [LinkedIn](https://www.linkedin.com/iasmachanna)  
 
----
-
-Let me know if you want to refine or expand any section!
+### Thanks For Reaching Out
